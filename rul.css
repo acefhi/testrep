@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+body{
+    background-color: rgb(103, 103, 174);/*цвет заднего фона*/
+    font-family: 'Roboto', sans-serif;/*шрифт*/
+    font-size: 18px;/*размер шрифта*/
+}
+h1{
+    color: white;
+}
+.city{
+    width: 100%;
+    border-radius: 28px;/*округление картинки*/
+}
+.med{
+    max-width: 1900px;/*ширина до 1900пикселей*/
+}
+.back{
+    width: 50%;
+    border-radius: 7px;
+}
+.tit{
+    margin-left: 40%;/*отступ слева который снаружи*/
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.card{
+    padding: 15px, 20px;/*отступ внутри*/
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.bg-yellow{
+    background-color: #fff9dc;
+    padding: 15px 20px;
+    font-size: 22px;
+}
+.most{
+    border-radius: 15px;
+}
+.time{
+    border-radius: 15px;
+}
+.build{
+    border-radius: 15px;
+}
+.bg-green{
+    background-color: #e5ffe7;
+    padding: 15px 20px;
+    font-size: 20px;
+}
+.bg-red{
+    background-color: #ffe5e5;
+    padding: 5px 10px;
+}
+.bg-orange{
+    background-color: rgb(210, 156, 56);
+    padding: 15px 20px;
+    margin-left: 51%;
+    font-size: 20px;
+}
+.stan{
+    background-color: rgb(31, 192, 109);
+    padding: 15px 20px;
+    font-size: 20px;
+    margin-left: 51%;
+    border-radius: 15px;
+}
+.end{
+    font-size: 26px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.vse{
+    font-size: 50px;
+}
